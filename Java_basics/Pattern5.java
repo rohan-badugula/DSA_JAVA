@@ -1,4 +1,4 @@
-// Hallow rectangle pattern
+// Hallow square pattern
 
 import java.util.*;
 
