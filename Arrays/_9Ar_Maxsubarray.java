@@ -1,3 +1,5 @@
+//Brute Force approach
+
 import java.util.*;
 public class _9Ar_Maxsubarray{
     public static void main(String args[]){
