@@ -7,7 +7,7 @@ public class _2Arrays{
         }
     }
     public static void main(String args[]){
-        int marks[] = {1,2,3};
+        int marks[] = {1,2,3,4,5};
         upd(marks);
         for(int i = 0; i<marks.length; i++){
             System.out.println(marks[i]+" ");
