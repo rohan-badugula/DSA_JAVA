@@ -1,6 +1,6 @@
 public class string_compression{
     public static void main(String args[]){
-        String s = "aaabcccdd";
+        String s = "aabcccdd";
         StringBuilder res = new StringBuilder("");
         int count = 1;
         res.append(s.charAt(0));
