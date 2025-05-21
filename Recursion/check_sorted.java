@@ -10,7 +10,7 @@ public class check_sorted{
 
     }
     public static void main(String args[]){
-        int nums[] = {1};
+        int nums[] = {1,5,4};
         System.out.println(isSorted(nums, 0));
     }
 }
